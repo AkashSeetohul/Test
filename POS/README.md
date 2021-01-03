@@ -1,0 +1,1 @@
+An assignment submitted for my Object-Oriented Programming class which builds a personal digital assistance by using the Viterbi Algorithm. We build a Hidden Markov Model, trains the program to identify sentence structures by reading a huge corpus of text, and updating the observational and transitional probabilities based on conditions. 
